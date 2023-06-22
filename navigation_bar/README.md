@@ -1,10 +1,10 @@
-# navigation_bar
+# Barra Lateral
 
-A new Flutter project.
+Projeto feito com Flutter.
 
-## Getting Started
+## Explicação
 
-This project is a starting point for a Flutter application.
+Este projeto surgiu para armazenar a ideia de uma barra lateral para outros tipos de aplicativos, podendo ser usado para outros projetos como uma espécime de base e uma forma de revisar certos aspectos.
 
 A few resources to get you started if this is your first Flutter project:
 
